@@ -1,6 +1,6 @@
 # Repositorio Autenticador
 
-##Certificado GitHub
+## Certificado GitHub
 
-##1 . User/Password
-##2 . Token
+## 1 . User/Password
+## 2 . Token
